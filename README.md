@@ -14,10 +14,18 @@ It is useful for patients whose treatment does not change and the medication pre
 Level 2 assistant:
 This level is for patients who have comorbidities, more complex drug treatment and the supervision and approval of the family doctor is also needed.
 Within this level, the treatment of patients can be modified or adjusted based on some analyzes performed [blood tests, x-rays, MRI, etc.].
+Depending on the patient's profile, referrals for consultations with specialist doctors [orthopaedics, endocrinology, neurology, pneumology, etc.] can be prescribed.
+A list of basic analyzes specific to the patient's condition can be prescribed, but with the consent of the family doctor and depending on the patient's illness.
 
 Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
 ## Background
+
+This type of AI would solve the following problems encountered in family doctors' offices:
+- the relatively long waiting time even with an appointment
+- faster issuance of drug prescriptions
+- relieving family doctors and increasing the time allocated for consultations of patients with more serious medical problems.
+
 
 Which problems does your idea solve? How common or frequent is this problem? What is your personal motivation? Why is this topic important or interesting?
 
