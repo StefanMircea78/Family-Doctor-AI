@@ -4,8 +4,18 @@ Family Doctor AI
 
 ## Summary
 
-Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
+This project is intended to be a help in the daily work of family doctors.
+It can be divided into several levels of medical assistance for patients, for example 3 levels, simple or easy, medium and advanced.
+I will address level 1 and partially 2.
+Level 1 assistant:
+This level will mainly work for prescribing monthly or quarterly drug prescriptions for patients in relatively good health condition between the ages of 18 and 50.
+It is useful for patients whose treatment does not change and the medication prescription is periodic without the need for changes or adjustments.
 
+Level 2 assistant:
+This level is for patients who have comorbidities, more complex drug treatment and the supervision and approval of the family doctor is also needed.
+Within this level, the treatment of patients can be modified or adjusted based on some analyzes performed [blood tests, x-rays, MRI, etc.].
+
+Describe briefly in 2-3 sentences what your project is about. About 250 characters is a nice length! 
 
 ## Background
 
